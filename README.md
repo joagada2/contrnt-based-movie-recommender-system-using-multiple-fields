@@ -1,2 +1,2 @@
-# contrnt-based-movie-recommender-system-using-multiple-fields
-In this project, I developed content based movie recommender system using multiple text fields as input
+# CONTENT BASED MOVIE RECOMMENDER SYSTEM WITH MULTIPLE TEXT FIELDS
+In this project, I utilized multiple text fields of movie dataset from the tmdb_5000_movie dataset to build content based recommender system for the movies. It is expected that efficiency of movie recommender system will increase with more input fields. The steps in this project include feature engineering as columns/features were created from JSON files.
